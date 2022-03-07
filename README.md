@@ -10,6 +10,8 @@ SA Crafters Issue Tracker
 <a href="https://github.com/JblackMC/SA-Crafters/issues/new">Report a Bug/Issue</a>
  · 
 <a href="https://github.com/JblackMC/SA-Crafters/issues" target="blank">View Current Bugs/Issues</a>
+ · 
+<a href="https://github.com/JblackMC/SA-Crafters/issues?q=is%3Aissue+is%3Aclosed" target="blank">View Closed Bugs/Issues</a>
 </p>
 <p>
 Please use the correct format when reporting a bug. You can see the correct template below. Copy it, paste it into a new issue and edit it. Once you have included all the info, post the issue.
